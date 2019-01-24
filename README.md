@@ -15,8 +15,3 @@ To classify our audio clips, we will choose 5 features, i.e. Mel-Frequency Cepst
 ## Tools
 
 We have used Keras API to train a ANN classifier. We have also used [Librosa](https://librosa.github.io/librosa/) module. It is a Python module to analyze audio signals in general but geared more towards music. Other modules are - Pandas, Sci-py, Numpy, PIL, etc.
-
-## References
-
-- https://towardsdatascience.com/music-genre-classification-with-python-c714d032f0d8
-- https://cse.iitk.ac.in/users/cs365/2015/_submissions/archit/report.pdf
